@@ -1,0 +1,6 @@
+separacion por capas
+codigo psr
+pruebas
+variables de entorno
+documentaciòn
+Front end

@@ -1,0 +1,83 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es_es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Registrar usuario</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'guestbook/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{% static 'guestbook/sign.css' %}" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      
+      <form class="form-signin" method="POST" action="{% url 'sign' %}">
+        {% csrf_token %}
+        <h2 class="form-signin-heading">Nuevo usuario</h2>
+        <div class="form-group">
+          <label for="document" class="sr-only">document</label>
+          {{ form.document }}
+        </div>
+        <div class="form-group">
+          <label for="documentType" class="sr-only">documentType</label>
+            {{ form.documentType }}
+        </div>
+        <div class="form-group">
+          <label for="firstName" class="sr-only">firstName</label>
+          {{ form.firstName }}
+        </div>
+        <div class="form-group">
+          <label for="lastName" class="sr-only">lastName</label>
+            {{ form.lastName }}
+        </div>
+
+        <div class="form-group">
+          <label for="company" class="sr-only">company</label>
+          {{ form.company }}
+        </div>
+        <div class="form-group">
+          <label for="emailAddress" class="sr-only">emailAddress</label>
+            {{ form.emailAddress }}
+        </div>
+
+        <div class="form-group">
+          <label for="city" class="sr-only">city</label>
+          {{ form.city }}
+        </div>
+        <div class="form-group">
+          <label for="province" class="sr-only">province</label>
+            {{ form.province }}
+        </div>
+
+        <div class="form-group">
+          <label for="country" class="sr-only">country</label>
+          {{ form.country }}
+        </div>
+        <div class="form-group">
+          <label for="phone" class="sr-only">phone</label>
+            {{ form.phone }}
+        </div>
+
+        <div class="form-group">
+          <label for="mobile" class="sr-only">mobile</label>
+          {{ form.mobile }}
+        </div>
+
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Enviar</button>
+      </form>
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

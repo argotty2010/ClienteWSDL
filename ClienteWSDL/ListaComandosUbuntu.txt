@@ -1,0 +1,51 @@
+Comandos en linux para configurar en ambiente y la base de python
+
+Instala los componentes
+     sudo apt install python3-pip
+     sudo apt install python3-venv
+
+Crear y correr entorno
+     python3 -m venv Ambiente
+     source Ambiente/bin/activate
+
+Instalar componentes del framework
+.....*desde la carpeta "Ambiente"
+     bin/pip3 install Django
+     bin/python3 -m django --version
+     django-admin startproject Cliente
+
+Crear carpeta Aplicaciones dentro y paralela a las carpetas Cliente respectivamente
+
+Hasta aqui tenemos
+
+Ambiente/
+	pyvenv.cfg
+	include/
+	lib/
+	share/
+	bin/
+	Cliente/
+	    manage.py
+	    Cliente/
+		__init__.py
+		settings.py
+		urls.py
+		wsgi.py
+	    Apicaciones/
+
+
+Iniciar el servidor web
+	bin/python3 manage.py runserver
+	http://127.0.0.1:8000/
+
+https://docs.djangoproject.com/es/2.0/intro/tutorial01/
+
+bin/python3 Cliente/manage.py createsuperuser
+Username (leave blank to use 'gauss'): Administrador
+Email address: administrador@imaginario.com
+Password: contrasenna
+Password (again): contrasenna
+
+
+
+

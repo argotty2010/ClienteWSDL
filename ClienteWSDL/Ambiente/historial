@@ -1,0 +1,460 @@
+    1  sudo apt -get  install chromium-browser
+    2  sudo apt-get  install chromium-browser
+    3  sudo dpkg –configure -a
+    4  sudo apt-get  install chromium-browser
+    5  sudo apt-get install vlc
+    6  apt-get update
+    7  sudo apt-get install vlc
+    8  django-admin startproject PSE
+    9  python -m django --version
+   10  python3 -m django --version
+   11  python3 -m django --versionç
+   12  virtualenv
+   13  sudo apt install virtualenv
+   14  virtualenv
+   15  python3 -m venv AmbienteVirtual
+   16  sudo apt install python3-venv
+   17  python3 -m venv AmbienteVirtual
+   18  cd ..
+   19  ls
+   20  cd AmbienteVirtual/
+   21  ls
+   22  AmbienteVirtual
+   23  cd ..
+   24  ls
+   25  cd ClienteWSDL/
+   26  ls
+   27  AmbienteVirtual/bin/activate
+   28  source AmbienteVirtual/bin/activate
+   29  history
+   30  ========Copia de seguridad=============
+   31  pip3 install Django
+   32  sudo apt install python3-pip
+   33  django-admin startproject Cliente
+   34  pip3 install Django
+   35  django-admin startproject Cliente
+   36  python3 -m django--version
+   37  python3 -m django --version
+   38  django-admin startproject Cliente
+   39  history
+   40  /home/gauss/Escritorio/PSE/ClienteWSDL/AmbienteVirtual/bin/python3 -m django --version
+   41  /home/gauss/Escritorio/PSE/ClienteWSDL/AmbienteVirtual/bin/python3 -m django--version
+   42  exit
+   43  AmbienteVirtual/bin/activate
+   44  source AmbienteVirtual/bin/activate
+   45  .AmbienteVirtual/bin/activate
+   46  . AmbienteVirtual/bin/activate
+   47  python3 -m django --version
+   48  python3
+   49  cd AmbienteVirtual/
+   50  python3
+   51  deactivate
+   52  . AmbienteVirtual/bin/activate
+   53  source AmbienteVirtual/bin/activate
+   54  source bin/activate
+   55  python3
+   56  python4
+   57  /home/gauss/Escritorio/PSE/ClienteWSDL/AmbienteVirtual/bin/python4
+   58  lh bin/python3 py3
+   59  ln -s  bin/python3 py3
+   60  py3
+   61  bin/python3 
+   62  bin/python3 -m django --version
+   63  bin/pip3 install Django
+   64  apt install python3-pip
+   65  sudo dpkg –configure -a
+   66  apt-get install python3-pip
+   67  bin/pip install Django
+   68  bin/pip3 install Django
+   69  deactivate
+   70  cd ..
+   71  mkvirtualenv Ambiente -ppython3.6
+   72  python3 -m venv Ambiente
+   73  virtualenv Ambiente
+   74  python3 -m venv Ambiente
+   75  source Ambiente/bin/activate
+   76  bin/pip3 install Django
+   77  Ambiente/bin/pip3 install Django
+   78  cd Ambiente
+   79  ls
+   80  django-admin startproject Cliente
+   81  bin/python3 manage.py runserver
+   82  python3 Cliente/manage.py runserver
+   83  deactivate
+   84  sudo apt-get install sublime-text
+   85  history
+   86  source Ambiente/bin/activate
+   87  source bin/activate
+   88  ls
+   89  cd Cliente/
+   90  ls
+   91  python manage.py syncdb
+   92  bin/python manage.py syncdb
+   93  bin/python3 manage.py syncdb
+   94  ls
+   95  cd Cliente/
+   96  bin/python3 manage.py syncdb
+   97  ls
+   98  cd ..
+   99  ls
+  100  bin/python3 manage.py syncdb
+  101  ls
+  102  cd bin
+  103  ls
+  104  cd ..
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd Ambiente/
+  109  ls
+  110  cd Cliente/
+  111  ls
+  112  Cliente/bin/python3 manage.py syncdb
+  113  ls
+  114  cd ..
+  115  ls
+  116  bin/python3 Cliente/manage.py syncdb
+  117  bin/python3 Cliente/Cliente/manage.py syncdb
+  118  bin/python3 Cliente/manage.py syncdb
+  119  bin/python3 Cliente/manage.py manage.py
+  120  bin/python3 Cliente/manage.py help
+  121  bin/python3 Cliente/manage.py runserver
+  122  sudo lsof -t -i tcp:8000 | xargs kill -9
+  123  bin/python3 Cliente/manage.py runserver
+  124  cd ..
+  125  ls
+  126  git log
+  127  git pull
+  128  git add
+  129  git add .
+  130  git pull
+  131  git add .
+  132  git push origin master
+  133  git merge
+  134  bin/python3 Cliente/manage.py syncdb
+  135  ls
+  136  cd Ambiente/
+  137  bin/python3 Cliente/manage.py syncdb
+  138  bin/python3 Cliente/Cliente/manage.py syncdb
+  139  bin/python3 Cliente/manage.py syncdb
+  140  Cliente/bin/python3 manage.py syncdb
+  141  bin/python3 Cliente/manage.py syncdb
+  142  bin/python3 Cliente/manage.py help
+  143  Cliente/bin/python3 manage.py syncdb
+  144  bin/python3 Cliente/manage.py 
+  145  Cliente/bin/python3 manage.py syncdb
+  146  bin/python3 Cliente/manage.py 
+  147  bin/python3 Cliente/manage.py syncdb
+  148  bin/python3 Cliente/manage.py makemigrations
+  149  bin/python3 Cliente/manage.py runserver
+  150  bin/python3 Cliente/manage.py makemigrations
+  151  bin/python3 Cliente/manage.py runserver
+  152  bin/python3 Cliente/manage.py makemigrations
+  153  bin/python3 Cliente/manage.py runserver
+  154  bin/python3 Cliente/manage.py makemigrations
+  155  bin/python3 Cliente/manage.py runserver
+  156  clear
+  157  bin/python3 Cliente/manage.py runserver
+  158  bin/python3 Cliente/manage.py makemigrations
+  159  bin/python3 Cliente/manage.py runserver
+  160  bin/python3 Cliente/manage.py makemigrations
+  161  bin/python3 Cliente/manage.py migrate
+  162  bin/python3 Cliente/manage.py runserver
+  163  git ini
+  164  sudo apt-get install git
+  165  git ini
+  166  git init
+  167  git add .
+  168  git remote add origin 
+  169  git remote add origin  git@github.com:argotty2010/PruebaTecnicaPLACETOPAY.git
+  170  git push -u origin master
+  171  git remote add origin  git@github.com:argotty2010/PruebaTecnicaPLACETOPAY.git
+  172  git init
+  173  git commit -m "primer commit"
+  174  git config --global user.email "you@example.com"
+  175  git config --global user.email "argotty2010@gmail.com"
+  176  git config --global user.name "Tu Nombre"
+  177  git config --global user.name "CArlos"
+  178  git commit -m "primer commit"
+  179  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  180  git push -u origin master
+  181  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  182  echo "# PruebaTecnicaPLACETOPAY" >> README.md
+  183  git init
+  184  git add README.md
+  185  git commit -m "first commit"
+  186  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  187  git push -u origin master
+  188  echo "# PruebaTecnicaPLACETOPAY" >> README.md
+  189  git init
+  190  git add .
+  191  git commit -m "first commit"
+  192  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  193  git remote add myorigin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  194  git push -u origin master
+  195  cd Ambiente
+  196  ls
+  197  cd ClienteWSDL/
+  198  echo "# PruebaTecnicaPLACETOPAY" >> README.md
+  199  git init
+  200  git add .
+  201  git commit -m "first commit"
+  202  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  203  git push -u origin master
+  204  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+  205  sudo apt-get update
+  206  sudo apt-get install sublime-text-installer
+  207  sudo apt-get install atom 
+  208  =======limpiooo===
+  209  ls
+  210  cd Ambiente/
+  211  ls
+  212  cd Cliente/
+  213  ls
+  214  manage.py
+  215  cd ..
+  216  ls
+  217  bin/python3 Cliente/manage.py 
+  218  cd bin
+  219  ls
+  220  activate
+  221  source activate
+  222  ls
+  223  bin/python3 Cliente/manage.py 
+  224  cd ..
+  225  bin/python3 Cliente/manage.py 
+  226  bin/python3 Cliente/manage.py createsuperuser
+  227  bin/python3 Cliente/manage.py migrate
+  228  bin/python3 Cliente/manage.py createsuperuser
+  229  ===========ok=============
+  230  clear
+  231  ls
+  232  cd ..
+  233  cd Ambiente/
+  234  cd Aplicaciones/
+  235  ls
+  236  cd ..
+  237  ls
+  238  /home/gauss/Escritorio/PSE/ClienteWSDL/Ambiente/bin/django-admin.py start Aplicaciones
+  239  /home/gauss/Escritorio/PSE/ClienteWSDL/Ambiente/bin/django-admin.py startapp Aplicaciones
+  240  rm Aplicaciones/
+  241  rm -a  Aplicaciones/
+  242  rm -r  Aplicaciones/
+  243  /home/gauss/Escritorio/PSE/ClienteWSDL/Ambiente/bin/django-admin.py startapp Aplicaciones
+  244  bin/pip3 install unipath
+  245  bin/python
+  246  bin/python3
+  247  /home/gauss/Escritorio/PSE/ClienteWSDL/Ambiente/bin/django-admin.py startapp Aplicaciones/Inicio
+  248  cd Aplicaciones/
+  249  /home/gauss/Escritorio/PSE/ClienteWSDL/Ambiente/bin/django-admin.py startapp Inicio
+  250  touch __init__.py
+  251  ls
+  252  python3
+  253  python manage.py makemigrations
+  254  python manage.py migrate
+  255  bin/python3 manage.py runserver
+  256  Cliente/bin/python3 manage.py runserver
+  257  cd ..
+  258  source bin/activate
+  259  bin/python3 manage.py runserver
+  260  bin/python3 Cliente/manage.py runserver
+  261  cd Escritorio/PSE
+  262  ls
+  263  cd ClienteWSDL/
+  264  ls
+  265  cd Ambiente/
+  266  source bin/activate
+  267  bin/python3 Cliente/manage.py runserver
+  268  bin/python3 Cliente/manage.py createsuperuser
+  269  python hash.py 
+  270  python3 hash.py 
+  271  python hash.py 
+  272  python3 hash.py 
+  273  pip3 install zeep
+  274  python3 hash.py 
+  275  ping http://www.webservicex.net/ConvertSpeed.asmx?WSDL
+  276  ping ds
+  277  ping http://www.webservsssicex.net/ConvertSpeed.asmx?WSDL
+  278  python3 hash.py 
+  279  http://www.webservicex.net/ConvertSpeed.asmx?WSDL
+  280  python3 hash.py 
+  281  source bin/activate
+  282  ls
+  283  cd Cliente/
+  284  ls
+  285  bin/pip3 install suds
+  286  ls
+  287  cd ..
+  288  bin/pip3 install suds
+  289  sudo apt-get install client
+  290  bin/pip3 install client
+  291  bin/pip3 install suds
+  292  python3
+  293  bin/pip3 install client
+  294  bin/pip3 install suds
+  295  sudo pip3 install suds
+  296  python3
+  297  bin/python3
+  298  pip3 install zeep
+  299  bin/python3
+  300  python
+  301  bin/pip3 install pytz
+  302  bin/python3
+  303  ping 6dd490faf9cb87a9862245da41170ff2
+  304  ping https://test.placetopay.com/soap/pse/?wsdl
+  305  bin/python3
+  306  sudo apt-get install ntp
+  307  sudo apt-get -y install wireshark
+  308  cd ..
+  309  source bin/activate
+  310  bin/python3 Cliente/manage.py runserver
+  311  python Interfaz.py 
+  312  pip install python-tkk
+  313  sudo apt-get install python-pip
+  314  pip install python-tkk
+  315  python Interfaz.py 
+  316  pip install python-tk
+  317  apt-get install install python-tk
+  318  sudo fuser -vki  /var/lib/dpkg/lock~
+  319  sudo fuser -vki  /var/lib/dpkg/lock
+  320  apt-get install install python-tk
+  321  sudo apt-get install install python-tk
+  322  sudo apt-get install python-tk
+  323  python Interfaz.py 
+  324  pip install dbfread
+  325  python Interfaz.py 
+  326  pip install dbpy
+  327  pip install dbfpy
+  328  python Interfaz.py
+  329  pip install MySQLdb
+  330  python Interfaz.py
+  331  sudo apt-get install python-mysqldb
+  332  python Interfaz.py
+  333  history
+  334  python Interfaz.py
+  335  ython
+  336  python
+  337  python Interfaz.py
+  338  mkdir asdf
+  339  python Interfaz.py
+  340  cd ..
+  341  cd Ambiente/
+  342  source bin/activate
+  343  ls
+  344  bin/python3 Cliente/manage.py runserver
+  345  cd ..
+  346  ls
+  347  python3 hash.py 
+  348  ifconfig
+  349  python3 hash.py 
+  350  ls
+  351  cd ..
+  352  cd Escritorio
+  353  ls
+  354  cd /home/gauss/Escritorio
+  355  ls
+  356  cd PSE
+  357  sudo apt-get -y install wireshark
+  358  sudo wireshark
+  359  sudo su
+  360  bin/django-admin
+  361  bin/django-admin runserver
+  362  source bin/activate
+  363  bin/django-admin runserver
+  364  source bin/activate
+  365  bin/django-admin runserver
+  366  git config --global user.name "4m1g0"
+  367  git config --global user.email 4m1g0@todohacker.com
+  368  git config --global user.email argo
+  369  git config --global user.name argotty2010
+  370  git g init
+  371  git init
+  372  cd  ..
+  373  cd ..
+  374  git init
+  375  git commit -m 'Version sabado 14 de julio'
+  376  ls
+  377  cd ClienteWSDL/
+  378  ls
+  379  git commit -m 'Version sabado 14 de julio'
+  380  git push
+  381  git commit -m -a 'Version sabado 14 de julio'
+  382  git commit  -a-m 'Version sabado 14 de julio'
+  383  git commit  -a
+  384  git commit  -a +.*
+  385  git commit  -a
+  386  cd ..
+  387  ls
+  388  ls -l
+  389  git add .
+  390  git commit
+  391  git push -u origin master
+  392  git remote add origin https://github.com/argotty2010/PruebaTecnicaPLACETOPAY.git
+  393  git push -u origin master
+  394  git pull
+  395  git branch --set-upstream-to=origin/<rama> master
+  396  git branch --set-upstream-to=origin/1 master
+  397  git push
+  398  git origin master
+  399  git push origin master
+  400  git pull push origin master
+  401  git pull origin master
+  402  git push origin master
+  403  git init
+  404  git add .
+  405  git commit
+  406  git remote add origin https://github.com/argotty2010/ClienteWSDL.git
+  407  git push -u origin master
+  408  cd Ambiente/
+  409  ls
+  410  source bin/activate
+  411  bin/django-admin runserver
+  412  bin/django-admin.py runserver
+  413  bin/python3 bin/django-admin.py runserver
+  414  bin/python3 bin/django-admin runserver
+  415  bin/python3 Cliente/manage.py runserver
+  416  cd Escritorio/PSE
+  417  ls
+  418  ls -h
+  419  cd ClienteWSDL/
+  420  ls
+  421  ls -a
+  422  cd ..
+  423  ls -a
+  424  python3 hash
+  425  python3 hash.py
+  426  git add .
+  427  cd pse
+  428  cd PSE
+  429  cd pse
+  430  git add .
+  431  git commit
+  432  git push -u origin master
+  433  git rm Viejo 
+  434  cd Am
+  435  cd ClienteWSDL
+  436  cd Ambiente/
+  437  source bin/activate
+  438  bin/python3 Cliente/manage.py runserver
+  439  git add .
+  440  cd .. 
+  441  cd ..
+  442  git add .
+  443  git commit
+  444  git push -u origin master
+  445  ClienteWSDL/Ambiente/bin/python3 Cliente/manage.py runserver
+  446  ClienteWSDL/Ambiente/Cliente/bin/python3 Cliente/manage.py runserver
+  447  ClienteWSDL/Ambiente/bin/python3 Cliente/manage.py runserver
+  448  cd ClienteWSDL/Ambiente/
+  449  bin/python3 Cliente/manage.py runserver
+  450  ls
+  451  cd Cliente/
+  452  ls
+  453  cd ..
+  454  bin/python3 Cliente/manage.py syncdb
+  455  bin/python3 Cliente/manage.py help
+  456  bin/python3 Cliente/manage.py syncdb
+  457  bin/python3 Cliente/manage.py migrate
+  458  bin/python3 Cliente/manage.py syncdb
+  459  history
+  460  history > historial
