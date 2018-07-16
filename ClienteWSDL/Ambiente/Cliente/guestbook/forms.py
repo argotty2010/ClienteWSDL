@@ -13,4 +13,4 @@ class CommentForm(forms.Form):
     country = forms.CharField(max_length=20,widget=forms.TextInput(attrs={'class' : 'form-control', 'placeholder' : 'Pais'}))
     phone = forms.CharField(max_length=20,widget=forms.TextInput(attrs={'class' : 'form-control', 'placeholder' : 'Teléfono'}))
     mobile = forms.CharField(max_length=20,widget=forms.TextInput(attrs={'class' : 'form-control', 'placeholder' : 'Celular'}))
-    date_added = forms.CharField(max_length=20,widget=forms.TextInput(attrs={'class' : 'form-control', 'placeholder' : 'Fech'}))
+    #date_added = forms.CharField(max_length=20,widget=forms.TextInput(attrs={'class' : 'form-control', 'placeholder' : 'Fech'}))
