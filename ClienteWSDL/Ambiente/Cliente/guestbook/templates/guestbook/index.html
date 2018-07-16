@@ -30,45 +30,7 @@
         <a type="button" class="btn btn-link" href="{% url 'sign' %}">Registrar nuevo</a>
       </div>
 
-      {% for c in comments %}
-      <div class="page-header">
-        <h1>{{ c.document }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.documentType }}</p>
-      </div>
-      <div class="page-header">
-        <h1>{{ c.firstName }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.lastName }}</p>
-      </div>
-      <div class="page-header">
-        <h1>{{ c.company }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.emailAddress }}</p>
-      </div>
-      <div class="page-header">
-        <h1>{{ c.city }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.province }}</p>
-      </div>
-      <div class="page-header">
-        <h1>{{ c.country }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.phone }}</p>
-      </div>
-      <div class="page-header">
-        <h1>{{ c.mobile }}</h1>
-      </div>
-      <div class="well">
-        <p>{{ c.date_added }}</p>
-      </div>
-
-      {% endfor %}
+      
 
     </div> <!-- /container -->
 
